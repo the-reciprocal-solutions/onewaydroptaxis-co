@@ -2958,9 +2958,8 @@ q footer:before {
     left:0px; 
     width: 100%;
     bottom:580px;  
-     
     padding:0px;
-    z-index:50;
+    z-index:999;
      animation: colorRotate 2.5s linear 0s infinite;
   }
   @keyframes colorRotate {
